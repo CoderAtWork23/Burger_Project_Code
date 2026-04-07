@@ -1,0 +1,10 @@
+//To Do
+Platformer Hood Game (Super Mario Style)
+1. Design the level
+2. Design the player 
+3. Camera movement for the player (smooooooth)
+
+Player
+A gangsta with a gun (He has ammunition)
+Fists
+(Concept) Ground Pound
